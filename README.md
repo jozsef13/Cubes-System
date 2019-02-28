@@ -1,2 +1,2 @@
-# Cubes-System
+# System of Cubes
 A second homework for OOP course.
